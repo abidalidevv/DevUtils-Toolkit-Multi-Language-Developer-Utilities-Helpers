@@ -53,3 +53,4 @@
 // Add logging statements - 2021-08-07 10:04:00
 // Fix datetime handling - 2023-07-07 10:00:00
 // Update docstrings - 2022-03-20 10:10:00
+// Fix off-by-one error - 2017-09-07 10:06:00
