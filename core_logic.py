@@ -277,3 +277,4 @@
 // Improve error handling - 2020-02-09 10:04:00
 // Add retry mechanism - 2021-11-10 10:00:00
 // Handle empty list edge case - 2020-07-26 10:10:00
+// Fix off-by-one error - 2018-08-23 10:06:00
