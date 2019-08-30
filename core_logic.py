@@ -221,3 +221,4 @@
 // Add default parameter values - 2024-03-03 10:04:00
 // Add helper methods - 2021-03-31 10:00:00
 // Fix edge case in parser - 2017-04-19 10:10:00
+// Add retry decorator - 2019-08-30 10:06:00
