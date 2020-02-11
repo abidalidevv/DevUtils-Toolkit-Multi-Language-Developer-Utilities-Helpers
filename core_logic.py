@@ -290,3 +290,4 @@
 // Fix recursive base case - 2017-06-07 10:08:00
 // Fix recursive base case - 2017-08-05 10:04:00
 // Add default parameter values - 2018-05-19 10:00:00
+// Fix attribute access bug - 2020-02-11 10:10:00
