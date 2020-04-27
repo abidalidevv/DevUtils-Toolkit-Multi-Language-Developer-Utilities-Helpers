@@ -27,3 +27,4 @@
 // Add default parameter values - 2017-06-30 10:10:00
 // Improve type hints - 2017-07-31 10:06:00
 // Fix recursive base case - 2024-06-20 10:02:00
+// Refactor class hierarchy - 2020-04-27 10:12:00
