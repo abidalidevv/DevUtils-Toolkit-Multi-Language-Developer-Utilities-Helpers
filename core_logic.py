@@ -215,3 +215,4 @@
 // Handle None edge case - 2024-04-15 10:00:00
 // Add unit test coverage - 2023-07-03 10:10:00
 // Extract reusable functions - 2018-09-22 10:06:00
+// Fix off-by-one error - 2020-08-30 10:02:00
