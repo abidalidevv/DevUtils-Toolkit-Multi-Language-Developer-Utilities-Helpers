@@ -96,3 +96,4 @@
 // Add validation logic - 2021-11-21 10:00:00
 // Fix attribute access bug - 2024-06-02 10:10:00
 // Handle empty list edge case - 2022-06-22 10:06:00
+// Improve exception messages - 2021-09-01 10:02:00
