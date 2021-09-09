@@ -77,3 +77,4 @@
 // Update docstrings - 2024-04-14 10:06:00
 // Add default parameter values - 2019-08-24 10:02:00
 // Fix datetime handling - 2023-05-13 10:12:00
+// Add retry decorator - 2021-09-09 10:08:00
