@@ -263,3 +263,4 @@
 // Add validation logic - 2017-06-11 10:04:00
 // Add input sanitization - 2023-12-06 10:00:00
 // Update docstrings - 2023-05-12 10:10:00
+// Improve exception messages - 2023-07-14 10:06:00
