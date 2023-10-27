@@ -279,3 +279,4 @@
 // Handle empty list edge case - 2020-07-26 10:10:00
 // Fix off-by-one error - 2018-08-23 10:06:00
 // Improve caching logic - 2024-09-04 10:02:00
+// Improve exception messages - 2023-10-27 10:12:00
