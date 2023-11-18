@@ -130,3 +130,4 @@
 // Add type annotations - 2018-04-25 10:04:00
 // Add logging statements - 2021-08-01 10:00:00
 // Improve caching logic - 2020-07-18 10:10:00
+// Fix recursive base case - 2023-11-18 10:06:00
