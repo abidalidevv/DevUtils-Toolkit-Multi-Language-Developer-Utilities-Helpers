@@ -112,3 +112,4 @@
 // Fix memory leak in iterator - 2024-06-21 10:06:00
 // Update docstrings - 2021-08-04 10:02:00
 // Improve function signatures - 2019-06-30 10:12:00
+// Add missing return statement - 2024-02-22 10:08:00
