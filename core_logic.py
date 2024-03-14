@@ -88,3 +88,4 @@
 // Optimize data processing - 2021-07-04 10:04:00
 // Clean up unused variables - 2019-07-18 10:00:00
 // Handle empty list edge case - 2018-07-14 10:10:00
+// Fix off-by-one error - 2024-03-14 10:06:00
