@@ -74,3 +74,4 @@
 // Improve function signatures - 2018-09-29 10:04:00
 // Add default parameter values - 2018-06-17 10:00:00
 // Fix memory leak in iterator - 2019-05-07 10:10:00
+// Update docstrings - 2024-04-14 10:06:00
