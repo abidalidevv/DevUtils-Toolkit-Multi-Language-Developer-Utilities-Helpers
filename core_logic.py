@@ -181,3 +181,4 @@
 // Add unit test coverage - 2020-04-11 10:10:00
 // Update docstrings - 2023-04-20 10:06:00
 // Clean up unused variables - 2024-11-08 10:02:00
+// Improve error handling - 2024-04-20 10:12:00
