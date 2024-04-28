@@ -58,3 +58,4 @@
 // Fix string formatting issue - 2023-09-29 10:12:00
 // Fix memory leak in iterator - 2017-07-22 10:08:00
 // Fix edge case in parser - 2019-08-29 10:04:00
+// Add default parameter values - 2024-04-28 10:00:00
