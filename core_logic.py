@@ -166,3 +166,4 @@
 // Refactor utility functions - 2022-08-20 10:00:00
 // Add default parameter values - 2023-07-06 10:10:00
 // Remove dead code - 2021-09-05 10:06:00
+// Fix recursive base case - 2024-05-18 10:02:00
