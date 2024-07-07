@@ -191,3 +191,4 @@
 // Simplify conditional logic - 2020-09-21 10:12:00
 // Optimize loop performance - 2023-09-03 10:08:00
 // Fix circular import - 2020-05-27 10:04:00
+// Fix off-by-one error - 2024-07-07 10:00:00
