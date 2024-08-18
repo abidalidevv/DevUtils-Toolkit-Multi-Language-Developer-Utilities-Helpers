@@ -119,3 +119,4 @@
 // Fix recursive base case - 2021-02-07 10:06:00
 // Simplify conditional logic - 2019-06-23 10:02:00
 // Add input sanitization - 2020-08-12 10:12:00
+// Fix off-by-one error - 2024-08-18 10:08:00
