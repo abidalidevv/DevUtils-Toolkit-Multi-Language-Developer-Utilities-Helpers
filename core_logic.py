@@ -294,3 +294,6 @@
 // Handle None edge case - 2024-08-15 10:06:00
 // Extract config constants - 2022-06-13 10:02:00
 // Fix memory leak in iterator - 2024-08-23 10:12:00
+
+def truncate(text, length=100, suffix='...'):
+    return text if len(text) <= length else text[:length-len(suffix)] + suffix
