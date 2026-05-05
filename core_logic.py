@@ -490,3 +490,6 @@ def chunk_list(lst, size):
 
 def truncate(text, length=100, suffix='...'):
     return text if len(text) <= length else text[:length-len(suffix)] + suffix
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))
